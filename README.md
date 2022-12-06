@@ -1,2 +1,3 @@
 # coinflip
-Arduino based machine takes a picture of both sides of a coin.
+
+In its current configuration, the machine accepts one roll of pennies and dispenses them into a small fixture which holds the flat as the first image is taken; it then is rotated 180* using a stepper motor stops for the image to be captured and continues to drop the penny into a chute which leads into a penny roll. Essentially this machine documents both the front and obverse sides of a penny within 2 seconds and places the coin back into a coin roll. It can easily accept a hopper and be fed loose change. With a small amount of vision software and some more servos, have yourself a machine swhich sorts coins by date and mint on the fly.
